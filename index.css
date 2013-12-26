@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Ostrich';
+	src: url(OstrichSans-Medium.otf);
+}
+body{
+	margin: 50px;
+	font-family: Ostrich;
+	font-size: 30px;
+	width:500px;
+}
+input{
+	font-family: Ostrich;
+	font-size: 40px;
+	padding:5px;
+}
